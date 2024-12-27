@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Avin Joy
-- 👀 I’m interested in python
+- 👀 I’m interested in python, Machine Learning and Data Science
 - 🌱 I’m currently learning Btech In AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning and AI projects
 - 📫 How to reach me on Instagram a.vxn_j
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
