@@ -1,58 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AJ</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 900px;
+      padding: 20px;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #4CAF50;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 5px 0;
+    }
+    .social-links a {
+      margin-right: 10px;
+    }
+    .code-block {
+      background-color: #282c34;
+      color: #f8f8f2;
+      padding: 10px;
+      border-radius: 5px;
+      font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    }
+  </style>
+</head>
 <body>
-    <header>
-        <h1>👋 Hey there! I'm Avin Joy.</h1>
-        <p>Welcome to my GitHub profile! I'm an enthusiastic <strong>Computer Science and Engineering</strong> student diving deep into the realms of <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>. My mission? To create impactful projects and collaborate with amazing minds!</p>
-    </header>
 
-    <div class="section">
-        <h2>🔭 What I’m Working On</h2>
-        <ul>
-            <li><strong>Learning</strong>: Gaining expertise in <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>.</li>
-            <li><strong>Creating</strong>: Building AI-powered projects that solve real-world problems.</li>
-            <li><strong>Collaborating</strong>: Always looking for like-minded people to innovate together in <strong>AI</strong> and <strong>ML</strong>!</li>
-        </ul>
-    </div>
+<h1>👋 Hi, I'm Avin Joy!</h1>
+<p>
+  I'm passionate about Python, Machine Learning, and Data Science. Currently, I'm diving deep into AI and building exciting projects to solve real-world problems.
+</p>
 
-    <div class="section">
-        <h2>🌟 Highlighted Creations</h2>
-        <ul>
-            <li><strong>Memory Game</strong>: A visually captivating and fun game built with <strong>Dart</strong> and <strong>Flutter</strong>. <a href="https://github.com/ajlike2310/Memory-Game">Check it Out!</a></li>
-            <li><strong>Vigil-Eye</strong>: AI-powered driver fatigue detection using facial recognition. <a href="https://github.com/ajlike2310/Vigil-Eye">Explore Here!</a></li>
-            <li><strong>Canteen Management System</strong>: Efficient Java-based canteen order and data management app. <a href="https://github.com/ajlike2310/CanteenManagementSystem">Learn More!</a></li>
-        </ul>
-    </div>
+<h2>🌟 Key Highlights</h2>
+<ul>
+  <li>🎓 Second-year Computer Science and Engineering student at Mar Baselios College of Engineering and Technology</li>
+  <li>🚀 Exploring the world of Artificial Intelligence</li>
+  <li>💡 Focused on creating innovative solutions with Python, Java, and Flutter</li>
+</ul>
 
-    <div class="section">
-        <h2>🚀 Skills in Action</h2>
-        <ul>
-            <li><strong>Programming Proficiency</strong>: Python, Java, C++</li>
-            <li><strong>Frameworks & Libraries</strong>: TensorFlow, Keras, Flutter</li>
-            <li><strong>Database Management</strong>: MySQL</li>
-            <li><strong>Developer Tools</strong>: VS Code, GitHub</li>
-        </ul>
-    </div>
+<h2>📚 Current Projects</h2>
+<ul>
+  <li>💻 <strong>Memory Game</strong>: A card-based memory game built with Flutter.</li>
+  <li>🔍 <strong>Vigil-Eye</strong>: A Python-based drowsiness detection system.</li>
+  <li>📊 <strong>Data Science Visualizations</strong>: Exploring data trends using Python and AI tools.</li>
+</ul>
 
-    <div class="section">
-        <h2>📈 My GitHub at a Glance</h2>
-        <p>
-            <img src="https://github-readme-stats.vercel.app/api?username=ajlike2310&show_icons=true&theme=radical" alt="Avin's GitHub Stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlike2310&layout=compact&theme=radical" alt="Top Languages">
-        </p>
-    </div>
+<h2>🚀 Skills & Tools</h2>
+<ul>
+  <li><strong>Programming Languages:</strong> Python, Java, Dart</li>
+  <li><strong>Frameworks:</strong> Flutter, TensorFlow</li>
+  <li><strong>Tools:</strong> Visual Studio Code, Jupyter Notebook</li>
+</ul>
 
-    <div class="section">
-        <h2>📬 Let’s Connect!</h2>
-        <ul>
-            <li><strong>Email</strong>: <a href="mailto:ajavme2310@gmail.com">ajavme2310@gmail.com</a></li>
-            <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/avin-joy-230237260/" target="_blank">Avin Joy</a></li>
-            <li><strong>Fun Fact</strong>: I’m always on the lookout for the next big idea in <strong>AI</strong> and love brainstorming creative solutions!</li>
-        </ul>
-    </div>
+<h2>📬 Let's Connect</h2>
+<p class="social-links">
+  <a href="mailto:ajavme2310@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/avin-joy-230237260/">🔗 LinkedIn</a>
+</p>
 
-    <footer>
-        <p><em>"The best way to predict the future is to invent it." – Alan Kay</em></p>
-    </footer>
+<h2>💡 Fun Fact</h2>
+<p>
+  I love exploring new technologies and creating innovative solutions for real-world challenges.
+</p>
+
+<h2>✨ Quote I Live By</h2>
+<blockquote>
+  "The best way to predict the future is to invent it." - Alan Kay
+</blockquote>
+
 </body>
 </html>
