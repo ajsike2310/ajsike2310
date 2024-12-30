@@ -1,48 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AJ</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0 auto;
-      max-width: 900px;
-      padding: 20px;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #4CAF50;
-    }
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin: 5px 0;
-    }
-    .social-links a {
-      margin-right: 10px;
-    }
-    .code-block {
-      background-color: #282c34;
-      color: #f8f8f2;
-      padding: 10px;
-      border-radius: 5px;
-      font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-    }
-  </style>
-</head>
 <body>
 
 <h1>👋 Hi, I'm Avin Joy!</h1>
@@ -70,6 +27,12 @@
   <li><strong>Frameworks:</strong> Flutter, TensorFlow</li>
   <li><strong>Tools:</strong> Visual Studio Code, Jupyter Notebook</li>
 </ul>
+
+<h2>📊 GitHub Stats</h2>
+<div class="github-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajsike2310&show_icons=true&theme=radical" alt="Avin's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajsike2310&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 <h2>📬 Let's Connect</h2>
 <p class="social-links">
